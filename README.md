@@ -125,5 +125,5 @@ A flyback diode connected across the relay coil suppresses the back-EMF generate
 
 Sri Harshini N
 
-Hardware Design | PCB Design | Electronics Engineering
+[LinkedIn](https://www.linkedin.com/in/sri-harshini-n-439b87212/) | [GitHub](https://github.com/SriHarshini2701)
 
