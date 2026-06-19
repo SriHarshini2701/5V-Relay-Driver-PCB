@@ -37,7 +37,7 @@ A flyback diode connected across the relay coil suppresses the back-EMF generate
 
 ## Schematic
 
-![Schematic](Images/Schematic.png)
+![Schematic](Images/Relay_DriverBJT_schematic.png)
 
 *Relay driver schematic showing MCU interface, transistor driver stage, relay coil protection diode, status LED, and motor switching contacts.*
 
@@ -47,13 +47,13 @@ A flyback diode connected across the relay coil suppresses the back-EMF generate
 
 ### Top Layer
 
-![PCB Top](Images/PCB_Top.png)
+![PCB Top](Images/Relay_DriverBJT_layout.png)
 
 *Top layer PCB layout generated in KiCad.*
 
 ### 3D View
 
-![PCB 3D](Images/PCB_3D.png)
+![PCB 3D](Images/Relay_DriverBJT_3D.png)
 
 *3D rendering of the completed relay driver PCB.*
 
@@ -114,24 +114,6 @@ A flyback diode connected across the relay coil suppresses the back-EMF generate
 ✔ Drill Map
 
 ✔ Bill of Materials (BOM)
-
----
-
-## Repository Contents
-
-```text
-5V-Relay-Driver-PCB
-│
-├── README.md
-├── Images
-├── Schematic
-├── LTspice
-├── BOM
-├── Manufacturing_Files
-├── Relay_Driver.kicad_pro
-├── Relay_Driver.kicad_sch
-└── Relay_Driver.kicad_pcb
-```
 
 ---
 
