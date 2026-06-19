@@ -65,7 +65,7 @@ A flyback diode connected across the relay coil suppresses the back-EMF generate
 
 ![Relay Coil Current](LTspice/Coil_Current.png)
 
-*Measured relay coil current ≈ 78.4 mA, validating proper energization of the Omron G5LE-1 relay.*
+*Measured relay coil current ≈ 77.8 mA, validating proper energization of the Omron G5LE-1 relay.*
 
 ---
 
@@ -81,7 +81,7 @@ A flyback diode connected across the relay coil suppresses the back-EMF generate
 
 ![Base Collector Current](LTspice/Base_Collector_Current.png)
 
-*Base current ≈ 7.4 mA and collector current ≈ 78.4 mA verify correct transistor drive and base resistor selection.*
+*Base current ≈ 7.38 mA and collector current ≈ 77.8 mA verify correct transistor drive and base resistor selection.*
 
 ---
 
