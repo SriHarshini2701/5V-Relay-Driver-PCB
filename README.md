@@ -63,7 +63,7 @@ A flyback diode connected across the relay coil suppresses the back-EMF generate
 
 ### Relay Coil Current Verification
 
-![Relay Coil Current](Images/Relaycoilcurrent)
+![Relay Coil Current](Images/Relaycoilcurrent.png)
 
 *Measured relay coil current ≈ 77.8 mA, validating proper energization of the Omron G5LE-1 relay.*
 
